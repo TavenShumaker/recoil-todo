@@ -11,7 +11,7 @@
     "react-devtools": "^4.8.2",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
-    "recoil": "0.0.10",
+    "recoil": "0.0.13",
     "recoilize": "^0.8.0"
   },
   "scripts": {
